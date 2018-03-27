@@ -1,9 +1,20 @@
 import React, { Component } from 'react';
 
+const CharacterContainers = () => {
+  // TODO: Make three containers. One for each character
+  return (
+    <main>
+      <CharacterContainer />
+    </main>
+  )
+};
+
 class App extends Component {
   render() {
     return (
-      <h1>Hello world</h1>
+      <main>
+        { characterContainers() }
+      </main>
     );
   }
 }
