@@ -4,4 +4,4 @@ Building UI components from my favorite games. Includes menus and dashboards fro
 * GTA
 * NBA2k and much more.
  
- Built with React Webpack and CSS
+ Built with React, Webpack, and SASS
